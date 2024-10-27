@@ -1,4 +1,4 @@
 # PireDroid
 
-<img src="https://raw.githubusercontent.com/CipherOS/Documentation/master/art/CipherOS6.png"/>
+<img src="https://raw.githubusercontent.com/Dityay/PireDroid/refs/heads/main/Untitled4.png"/>
 
