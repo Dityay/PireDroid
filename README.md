@@ -1,6 +1,6 @@
 # PireDroid Blossom
 
-<img src="https://raw.githubusercontent.com/Dityay/PireDroid/refs/heads/main/Untitled4.png"/>
+<img src="https://raw.githubusercontent.com/Dityay/Dityay/refs/heads/main/Untitled4.png"/>
 
 The new update of PireDroid was here!
 
