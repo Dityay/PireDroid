@@ -4,4 +4,4 @@
 
 The new update of PireDroid was here!
 
-Check https://t.me/dtyaa_stuff to see new updates of this GSI!
+Check out https://t.me/dityaa_stuff to see new updates of my GSI!
