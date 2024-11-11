@@ -1,6 +1,6 @@
 # PireDroid Violet (1.12)
 
-<img src="https://raw.githubusercontent.com/Dityay/Dityay/refs/heads/main/Untitled4.png"/>
+<img src="https://raw.githubusercontent.com/Dityay/Dityay/refs/heads/main/Pire.png"/>
 
 The new update of PireDroid coming soon!
 
