@@ -1,7 +1,7 @@
-# PireDroid Blossom (1.11)
+# PireDroid Violet (1.12)
 
 <img src="https://raw.githubusercontent.com/Dityay/Dityay/refs/heads/main/Untitled4.png"/>
 
-The new update of PireDroid was here!
+The new update of PireDroid coming soon!
 
 Check out https://t.me/piredroid_update to see new updates of this cool GSI!
