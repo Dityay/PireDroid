@@ -1,7 +1,6 @@
-# PireDroid Violet (1.12)
+# Soon
 
 <img src="https://raw.githubusercontent.com/Dityay/Dityay/refs/heads/main/Pire.png"/>
 
-The new update of PireDroid coming soon!
-
+Something will arrive soon.
 Check out https://t.me/piredroid_update to see new updates of this cool GSI!
